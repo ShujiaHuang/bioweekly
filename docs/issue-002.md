@@ -6,19 +6,19 @@
 
 ## 封面图
 
-![Teal and Brown Insect on Tree Branch](assets/images/pexels-photo-2132203.jpeg)
+![Teal and Brown Insect on Tree Branch](http://static.fungenomics.com/images/2021/03/pexels-photo-2132203.jpeg)
 
-![Decorative cardboard illustration of microscope with virus on green background](assets/images/pexels-photo-5849467.jpeg)
+![Decorative cardboard illustration of microscope with virus on green background](http://static.fungenomics.com/images/2021/03/pexels-photo-5849467.jpeg)
 
 ## 本周话题：国家自然科学基金申请
 
 这周在国内学术圈最重要的一个事情就是**国家自然科学基金**（简称：国自然）的申请，每年都要三月份中旬提交。通常都要花很长时间写好项目标书，所以几乎每个有意申请的科研人员都很难过好春节，而且每年如此。国自然对于每个科研人员来讲意义都很大，它就像是科研人员的高考，特别是对于进入科研圈的新人来说更是如此，它是一个标志，而且竞争激烈，这是去年生命科学部中标率（资助率）的一个统计：
 
-![image-20210227123135139](assets/images/image-20210227123135139.png)
+![image-20210227123135139](http://static.fungenomics.com/images/2021/03/image-20210227123135139.png)
 
 这一个是去年医学科学部中标率的统计：
 
-![image-20210227140616658](assets/images/image-20210227140616658.png)
+![image-20210227140616658](http://static.fungenomics.com/images/2021/03/image-20210227140616658.png)
 
 
 
@@ -28,15 +28,73 @@
 
 
 
-![image-20210227123615662](assets/images/image-20210227123615662.png)
+![image-20210227123615662](http://static.fungenomics.com/images/2021/03/image-20210227123615662.png)
 
 
 
-![image-20210227123538674](assets/images/image-20210227123538674.png)
+![image-20210227123538674](http://static.fungenomics.com/images/2021/03/image-20210227123538674.png)
 
 ## 文章和资讯
 
-1、
+1、[睡觉打鼾的人，大脑中出现与阿尔兹海默症相同的损伤，或是老年痴呆前兆](https://mp.weixin.qq.com/s/Lu4QOJ6zTTRf61mfoRUhkg)
+
+![img](http://static.fungenomics.com/images/2021/03/640-20210301202016852.jpg)
+
+首先，我们熟知的睡觉打鼾是临床上称为**阻塞性睡眠呼吸暂停综合征**（OSAS）的一个常见表现。OSAS**是由于身体的某些机能异常引起的，是一种不该被忽视的疾病。**这项研究的厉害之处是，研究人员竟然建立起了阿兹海默疾病（老年痴呆）和打鼾之间的联系，他们的成果**第一次**发现了和**阿尔兹海默症**患者一样，**阻塞性睡眠呼吸暂停**患者的大脑中也出现了**淀粉样蛋白沉淀**，而且这些沉淀斑块出现在与阿尔兹海默症患者相同的大脑位置中，并以相同的方式传播。
+
+这项成果的结论是：一个人如果中年时有睡眠呼吸暂停（最直观的表现就是睡觉打鼾），那么他年龄更大时更可能患上阿尔兹海默症；如果一个人已经患上阿尔兹海默症，那么他往往比同龄人更易出现睡眠呼吸暂停。
+
+> 注意：阻塞性睡眠呼吸暂停的最明显特征就是睡觉打鼾，但睡觉打鼾并不代表一定就是患有阻塞性睡眠呼吸暂停。
+
+看到这个研究时，我不禁陷入了沉思。。。。。。
+
+![不禁陷入沉思](http://static.fungenomics.com/images/2021/03/ailSM3191WqQL8g9G-A3-aMS7flXQcWQ5yIa-H0RYS4BwgY9LhvOhKV14RWZKNqOLvbR8kiiu2i03RHeH5DP4_diym8wua9KgWOH_CvDZgXnwqWMi6AHLg.jpeg)
+
+
+
+2、[全世界每年120万人死于肝癌，每天两杯咖啡，因肝癌而死亡的人数将减少数十万](https://mp.weixin.qq.com/s/xcc_hNBSe151Oc2jVRxcKQ)
+
+![Image](http://static.fungenomics.com/images/2021/03/640-20210301203838412.jpg)
+
+咖啡能够降低肝癌发病率。其实多年来就有研究一直表明，定期喝咖啡可以带来很多健康方面的好处。这篇论文指出，**大量证据提示饮用咖啡不会增加心血管疾病和癌症风险，而且每日饮用3～5杯咖啡与数种慢性疾病风险降低相关**。从目前统计数据来看，全世界每人一天平均不足一杯，欧洲的斯堪的纳维亚半岛半岛最多，平均大于四杯，其次欧洲、南美、澳大利亚及新西兰地区，每人每天大于两杯。
+
+文章的研究结论是：**如果世界上每人每天至少喝两杯咖啡，全世界因肝癌而死亡的人数将减少45万以上**，如果每人每天至少喝四杯咖啡，因肝癌而死亡的人数则将**减少72万以上**。
+
+> 另外值得一提的是，2020年国内医学科学院阜外医院**顾东风**院士（现任南方科技大学代理副校长）团队在《**欧洲预防心脏病学杂志**》发表论文，**通过对超过10万名健康中国人的长期跟踪研究发现，每周至少喝三次茶与更健康和更长的预期寿命有关**，所以中国人适量饮茶其实对健康也是同样有好处的。
+
+
+
+3、[中国人独立起源，不是来自非洲？最新证据：现代人来华南不超6万年](https://mp.weixin.qq.com/s/St-ykjS23ZDixFN1y1wZfg)
+
+![Image](http://static.fungenomics.com/images/2021/03/640.png)
+
+非凡的结论必须要有非凡的证据。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -50,4 +108,7 @@
 
 每周首发于个人公众号：**helixminer（碱基矿工）**
 
-<img src="assets/images/image-20210228112711833.png" alt="image-20210228112711833" style="zoom:50%;" />
+
+
+<img src="http://static.fungenomics.com/images/2021/03/helixminer-mid-red.png" alt="image-20210228112711833" style="zoom:60%;" />
+
