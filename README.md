@@ -4,6 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/技术/资源，请[提交 issue](https://github.com/ShujiaHuang/bioweekly/issues) 。
 
+
 ## 如何搜索本周报的内容
 
 1、使用[Sourcegraph.com](https://sourcegraph.com/github.com/ShujiaHuang/bioweekly/) 进行搜索。（推荐方法）
@@ -21,5 +22,6 @@ $ grep -nri [搜索词] docs | cat --number
 
 **三月**
 
+- 第 002 期: [国家自然科学基金申请](docs/issue-002.md)
 - 第 001 期: [肝脏, 一个没有痛感神经的器官](docs/issue-001.md)
 
