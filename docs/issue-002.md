@@ -14,7 +14,7 @@
 
 这周在国内很多科研人员来说，最重要的一个事情就是**国家自然科学基金**（简称：国自然）的申请，每年都在三月份中旬提交。通常都要花很长时间寻找科学问题、准备素材和前期结果，之后还要写好项目标书，所以几乎每个有意申请的科研人员都很难过好春节，而且每年如此。
 
-国自然对于每个科研人员来讲意义很大，**它就像是科研人员的“高考”**，特别是对于进入科研圈的新人来说更是如此，可以认为是**一个标志，所以特别重要**，而且竞争激烈。
+国自然对于每个科研人员来讲意义很大，**它有点像是科研人员的“高考”**，特别是对于进入科研圈的新人来说更是如此，可以认为是**一个标志或门槛，所以很重要**，而且竞争激烈。
 
 下面是2020年生命科学部中标率（资助率）的一个统计：
 
@@ -44,7 +44,7 @@
 
 ## 文章和资讯
 
-1、[睡觉打鼾的人，大脑中出现与阿尔兹海默症相同的损伤，或是老年痴呆前兆](https://mp.weixin.qq.com/s/Lu4QOJ6zTTRf61mfoRUhkg)
+1、[睡觉打鼾的人，大脑中出现与阿尔兹海默症相同的损伤，或是老年痴呆前兆[^1]](https://mp.weixin.qq.com/s/Lu4QOJ6zTTRf61mfoRUhkg)
 
 ![img](http://static.fungenomics.com/images/2021/03/640-20210301202016852.jpg)
 
@@ -62,7 +62,7 @@
 
 
 
-2、[全世界每年120万人死于肝癌，每天两杯咖啡，因肝癌而死亡的人数将减少数十万](https://mp.weixin.qq.com/s/xcc_hNBSe151Oc2jVRxcKQ)
+2、[全世界每年120万人死于肝癌，每天两杯咖啡，因肝癌而死亡的人数将减少数十万[^2]](https://mp.weixin.qq.com/s/xcc_hNBSe151Oc2jVRxcKQ)
 
 ![Image](http://static.fungenomics.com/images/2021/03/640-20210301203838412.jpg)
 
@@ -84,7 +84,7 @@
 
 
 
-3、[喝咖啡不会影响睡眠，但却改变了大脑结构](https://mp.weixin.qq.com/s/WaJ7636hOUY0RQe2YdFVIA)
+3、[喝咖啡不会影响睡眠，但却改变了大脑结构[^3]](https://mp.weixin.qq.com/s/WaJ7636hOUY0RQe2YdFVIA)
 
 ![image-20210304182125571](http://static.fungenomics.com/images/2021/03/image-20210304182125571.png)
 
@@ -110,7 +110,7 @@
 
 
 
-4、[中国人独立起源，不是来自非洲？](https://mp.weixin.qq.com/s/St-ykjS23ZDixFN1y1wZfg)
+4、[中国人独立起源，不是来自非洲？[^4]](https://mp.weixin.qq.com/s/St-ykjS23ZDixFN1y1wZfg)
 
 ![Image](http://static.fungenomics.com/images/2021/03/migrate-china.png)
 
@@ -126,7 +126,7 @@
 
 
 
-5、[长大后吸掉了自己的脑子，这种动物味道不错](https://mp.weixin.qq.com/s/5BwHuQyXTFjnctq25FH_bQ)
+5、[长大后吸掉了自己的脑子，这种动物味道不错[^5]](https://mp.weixin.qq.com/s/5BwHuQyXTFjnctq25FH_bQ)
 
 讲一个细思极恐的事情：**大脑告诉我们，脑子是人体最重要的器官，地球上聪明的动物都有脑子。**
 
@@ -152,15 +152,13 @@
 
 
 
-6、[“吃掉你，我就继承你的记忆”，记忆转移实验是造假还是奇迹？](https://mp.weixin.qq.com/s/ph4R2MMz7EMMIPl_lNF8YA)
-
-
-
-
+6、[“吃掉你，我就继承你的记忆”，记忆转移实验是造假还是奇迹？[^6]](https://mp.weixin.qq.com/s/ph4R2MMz7EMMIPl_lNF8YA)
 
 又是吃脑子，又是吃记忆的。
 
-7、[分析数十万人数据，找到62个“护胖”基因](https://mp.weixin.qq.com/s/23uUN93Emh52qfoyk7qkLg)
+
+
+7、[分析数十万人数据，找到62个“护胖”基因[^7]](https://mp.weixin.qq.com/s/23uUN93Emh52qfoyk7qkLg)
 
 ![image-20210304010416125](http://static.fungenomics.com/images/2021/03/image-20210304010416125.png)
 
@@ -173,6 +171,26 @@
 这62个基因位点可以分为三组，**第一组是有“多重代谢保护作用”的位点**，其中7个与更好的体脂分布状况有关；第二组则是**与“好胆固醇” HDL-C 较高、LDL-C 和甘油三酯更低**有关；第三组则主要与**体重指数高、空腹血糖和收缩压更低有关**。
 
 这62个基因位点还与人体脂肪细胞内基因表达有变化的位点高度重合，所以它们很可能是通过**影响脂肪细胞的生物学行为发挥作用**，比如影响了能量代谢和氧化还原、胰岛素-血糖信号通路、白色脂肪棕色化和慢性炎症等。
+
+
+
+## *References*
+
+[^1]: https://mp.weixin.qq.com/s/Lu4QOJ6zTTRf61mfoRUhkg
+[^2]: https://mp.weixin.qq.com/s/xcc_hNBSe151Oc2jVRxcKQ
+[^3]: https://mp.weixin.qq.com/s/WaJ7636hOUY0RQe2YdFVIA
+[^4]: https://mp.weixin.qq.com/s/St-ykjS23ZDixFN1y1wZfg
+[^5]: https://mp.weixin.qq.com/s/5BwHuQyXTFjnctq25FH_bQ
+[^6]: https://mp.weixin.qq.com/s/ph4R2MMz7EMMIPl_lNF8YA
+[^7]: https://mp.weixin.qq.com/s/23uUN93Emh52qfoyk7qkLg
+
+
+
+
+
+
+
+
 
 
 
