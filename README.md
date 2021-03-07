@@ -24,6 +24,7 @@ $ grep -nri [搜索词] docs | cat --number
 
 **三月**
 
+- 第 002 期: [申请国家自然科学基金](docs/issue-002.md)
 
 **二月**
 
