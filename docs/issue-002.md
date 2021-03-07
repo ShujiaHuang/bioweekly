@@ -175,23 +175,23 @@
 
 ## *References*
 
-> [^1]:https://mp.weixin.qq.com/s/Lu4QOJ6zTTRf61mfoRUhkg
->
-> [^2]:https://mp.weixin.qq.com/s/xcc_hNBSe151Oc2jVRxcKQ
->
-> [^3]:https://mp.weixin.qq.com/s/WaJ7636hOUY0RQe2YdFVIA
->
-> [^4]:https://mp.weixin.qq.com/s/St-ykjS23ZDixFN1y1wZfg
->
-> [^5]:https://mp.weixin.qq.com/s/ph4R2MMz7EMMIPl_lNF8YA
->
-> [^6]:https://mp.weixin.qq.com/s/ph4R2MMz7EMMIPl_lNF8YA
->
-> [^7]:https://mp.weixin.qq.com/s/23uUN93Emh52qfoyk7qkLg
+[^1]:https://mp.weixin.qq.com/s/Lu4QOJ6zTTRf61mfoRUhkg
+
+[^2]:https://mp.weixin.qq.com/s/xcc_hNBSe151Oc2jVRxcKQ
+
+[^3]:https://mp.weixin.qq.com/s/WaJ7636hOUY0RQe2YdFVIA
+
+[^4]:https://mp.weixin.qq.com/s/St-ykjS23ZDixFN1y1wZfg
+
+[^5]:https://mp.weixin.qq.com/s/ph4R2MMz7EMMIPl_lNF8YA
+
+[^6]:https://mp.weixin.qq.com/s/ph4R2MMz7EMMIPl_lNF8YA
+
+[^7]:https://mp.weixin.qq.com/s/23uUN93Emh52qfoyk7qkLg
 
 
 
------
+## 订阅
 
 《碱基周报》每周首发于个人公众号：**helixminer（碱基矿工）**
 
