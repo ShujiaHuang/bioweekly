@@ -40,7 +40,19 @@ https://humanorigins.si.edu/education/introduction-human-evolution
 
 
 
+### 4、What the f*ck Python[^4]
+
+![image-20210312194913750](http://static.fungenomics.com/images/2021/03/image-20210312194913750.png)
+
+
+
+这个仓库是原始英文版的中文翻译，收集 Python 语言的各种怪异的语法点，以及鲜为人知的功能特性，并尝试讨论这些语法现象背后真正的原理。
+
+
+
 ## *References*
+
+[^4]: https://github.com/leisurelicht/wtfpython-cn
 
 
 
