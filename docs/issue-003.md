@@ -16,8 +16,6 @@
 
 https://en.wikipedia.org/wiki/Human_evolution
 
-
-
 [A brief history of human evolution: challenging Darwin’s claim](https://ijae.springeropen.com/articles/10.1186/s41257-018-0014-2)
 
 https://humanorigins.si.edu/education/introduction-human-evolution
@@ -31,12 +29,8 @@ https://humanorigins.si.edu/education/introduction-human-evolution
 - [人类时代](https://www.youtube.com/watch?v=CWu29PRCUvQ)
 
 
-
 [视频题目：人类起源的故事，或者： 智人：人类简史]
-
 你知道吗? 现代人的祖先无论是脑容量还是身体素质都要优于现在的我们，他们非常强健而且聪明，但12000年前农业技术的出现改变了一切。
-
-
 
 
 
