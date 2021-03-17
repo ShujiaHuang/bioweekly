@@ -6,6 +6,20 @@
 
 
 
+![greg-perry-human-evolution](http://static.fungenomics.com/images/2021/03/greg-perry-human-evolution.jpeg)
+
+
+
+![图源: www.sciencemag.org](http://static.fungenomics.com/images/2021/03/neanderthal_1280p_0-20210316201137723.jpg)
+
+
+
+
+
+
+
+
+
 ## 本周话题：人类的起源简史
 
 [Human evolution](https://www.britannica.com/science/human-evolution)
@@ -80,7 +94,7 @@ https://humanorigins.si.edu/education/introduction-human-evolution
 
 
 
-这个仓库是原始英文版的中文翻译，收集 Python 语言的各种怪异的语法点，以及鲜为人知的功能特性，并尝试讨论这些语法现象背后真正的原理。
+这个仓库是原始英文版的中文翻译，名字比较粗暴，它汇集了 Python 语言的各种怪异的语法点，以及鲜为人知的功能特性，并尝试讨论这些语法现象背后真正的原理。
 
 
 
