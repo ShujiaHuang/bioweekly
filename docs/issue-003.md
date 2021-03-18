@@ -86,7 +86,11 @@ https://humanorigins.si.edu/education/introduction-human-evolution
 
 ## 文章和资讯
 
+### 3、一个可以将论文概括为一句话的AI[^3]
 
+[![image-20210318132550742](http://static.fungenomics.com/images/2021/03/image-20210318132550742.png)](https://mp.weixin.qq.com/s/5FM0SVuIkO28v48M1b3rGA)
+
+这是一个称为 TLDR 的免费软件，由非营利性的艾伦人工智能研究所开发的一个学术论文总结工具，号称可以将长论文总结为一句话，这个软件的文章发表在 Nature 上。不过，它目前只适用于 Semantic Scholar上的论文，其它的还在调试。
 
 ### 4、What the f*ck Python[^4]
 
@@ -100,6 +104,7 @@ https://humanorigins.si.edu/education/introduction-human-evolution
 
 ## *References*
 
+[^3]: https://mp.weixin.qq.com/s/5FM0SVuIkO28v48M1b3rGA
 [^4]: https://github.com/leisurelicht/wtfpython-cn
 
 
