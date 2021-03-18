@@ -18,7 +18,7 @@
 
 
 
-
+或者改为盘点：全球十个主要基因组项目
 
 ## 本周话题：人类的起源简史
 
@@ -80,11 +80,27 @@ https://humanorigins.si.edu/education/introduction-human-evolution
 
 
 
-
-
-
-
 ## 文章和资讯
+
+### 1、人类终于造出了完整的人类胚胎模型[^1]
+
+[![image-20210318210433870](http://static.fungenomics.com/images/2021/03/image-20210318210433870.png)](https://mp.weixin.qq.com/s/u1AFWaRzqMCqorkm9VJ2FA)
+
+
+
+**实验室条件下人类胚胎发育模型的构建**一直都是极难解决的问题，胚胎发育是被高度调控的，并且自身有着严格的时空节奏。这篇文章介绍了 Nature 新发布的一项成果，两个不同的团队用两种不同的方法完成了这一件事！一个是使用细胞系，另一个是优化培养方案，都成功构建了初步的人类胚胎模型——人造囊胚。
+
+它们不仅在形态方面，从滋养层、上胚层和下胚层的空间组织结构与植入前人类胚胎一致，而且在转录组上，这两个人造囊胚与天然胚胎具有相似的分子特征。
+
+> 目前来说，人造囊胚能可以很好的模拟人类胚胎的早期发育，这对于改进辅助医疗技术、防止流程和出生缺陷意义极大，虽然也不能发育成胎儿，但是这个技术的大规模应用会面临挑战，最严峻的一个就是伦理和监管。
+
+### 2、 
+
+
+
+
+
+
 
 ### 3、一个可以将论文概括为一句话的AI[^3]
 
@@ -104,6 +120,7 @@ https://humanorigins.si.edu/education/introduction-human-evolution
 
 ## *References*
 
+[^1]: https://mp.weixin.qq.com/s/u1AFWaRzqMCqorkm9VJ2FA
 [^3]: https://mp.weixin.qq.com/s/5FM0SVuIkO28v48M1b3rGA
 [^4]: https://github.com/leisurelicht/wtfpython-cn
 
