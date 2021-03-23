@@ -24,6 +24,7 @@ $ grep -nri [搜索词] docs | cat --number
 
 **三月**
 
+- 第 004 期: [全球十大主要基因组学项目盘点](docs/issue-004.md)
 - 第 003 期: [人类起源的故事](docs/issue-003.md)
 - 第 002 期: [申请国家自然科学基金](docs/issue-002.md)
 
