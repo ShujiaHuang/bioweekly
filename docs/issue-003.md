@@ -4,7 +4,7 @@
 
 ## 封面图
 
-![图源: www.sciencemag.org](http://static.fungenomics.com/images/2021/03/neanderthal_1280p_0-20210316201137723.jpg)
+![图源: www.sciencemag.org](https://static.fungenomics.com/images/2021/03/neanderthal_1280p_0-20210316201137723.jpg)
 
 ## 本周话题：人类起源的故事
 
@@ -20,7 +20,7 @@
 
 不过，不能小看我们的祖先。五万年前的人类是生存专家，他们的心里有整个领地的详细地图，他们的感官完美地适应了当时的环境。他们知道而且记得大量的植物和动物信息；他们可以制作出精良的工具，并在茂密的丛林中精准跟踪猎物；仅仅依靠日常的活动，他们的身体就可以与现代社会中的运动员相比，而且他们在自己的部落中也有丰富的社会生活；他们的平均脑容量可能比当今现代人的还大。
 
-![image-20210321185154414](http://static.fungenomics.com/images/2021/03/image-20210321185154414.png)
+![image-20210321185154414](https://static.fungenomics.com/images/2021/03/image-20210321185154414.png)
 
 虽然作为一个集体我们懂得更多的知识，但论个体我们的祖先则更优。
 
@@ -36,7 +36,7 @@
 
 首先是付巧妹研究员，她们2020年在 Science 上发表了一项研究成果[^2]。通过研究来自山东、内蒙古、福建等地方一万年前的26个古人基因组序列，发现早在八九千年前，中国的古北方人和古南方人的 DNA 里就已经出现了明显的差异。前者更接近生活在北方西伯利亚的居民，而后者则更加接近生活在东南亚和太平洋岛屿的南岛人。
 
-![The Genomic Formation of Human Populations in East Asia](http://static.fungenomics.com/images/2021/03/F4.medium.gif)
+![The Genomic Formation of Human Populations in East Asia](https://static.fungenomics.com/images/2021/03/F4.medium.gif)
 
 考虑到中国人的历史记载，推测很可能在大约4万年前，人类祖先从非洲来到亚洲进入中国之后，先由南向北逐渐扩张，并在黄河和长江这两条大河附近定居发展农业，并分别驯化了小米和水稻，进入农业时代，最后形成了稳定的人口规模和势力范围，也因此形成了各具差异的基因特征。
 
@@ -50,7 +50,7 @@
 
 那原来已经定居在南方的古南方人呢？在激烈的生存斗争中，他们也找到了自己的生产之道。付巧妹的文章中指出，福建沿海小岛上发现了古南方人的基因组序列信息，并且大量分不到了台湾省和东南亚各国的居民中。所以，一个可能的推测是，当黄河流域的古北方人不断南下进入长江流域和华南地区的时候，古南方人也转身朝向东南方向，以台湾岛为跳板，进入东南亚岛屿，挺进太平洋。
 
-![image-20210321191023050](http://static.fungenomics.com/images/2021/03/image-20210321191023050.png)
+![image-20210321191023050](https://static.fungenomics.com/images/2021/03/image-20210321191023050.png)
 
 同时，在王传超的研究成果还发现了另一个重要的迁徙方向，就是那些原本的古南方人，有一部分向西南方向迈进，穿过了云贵高原，形成了今天的傣族人、壮族人等的祖先，还有一部分进入了中南半岛。
 
@@ -68,13 +68,13 @@
 
 人类的起源，中国人的历史，这个漫长的探索之路还未完结，古今很多事，难付笑谈中。
 
-![image-20210321184049495](http://static.fungenomics.com/images/2021/03/image-20210321184049495.png)
+![image-20210321184049495](https://static.fungenomics.com/images/2021/03/image-20210321184049495.png)
 
 ## 文章和资讯
 
 ### 1、人类终于造出了完整的人类胚胎模型[^4]
 
-[![image-20210318210433870](http://static.fungenomics.com/images/2021/03/image-20210318210433870.png)](https://mp.weixin.qq.com/s/u1AFWaRzqMCqorkm9VJ2FA)
+[![image-20210318210433870](https://static.fungenomics.com/images/2021/03/image-20210318210433870.png)](https://mp.weixin.qq.com/s/u1AFWaRzqMCqorkm9VJ2FA)
 
 **实验室条件下人类胚胎发育模型的构建**一直都是极难解决的问题，胚胎发育是被高度调控的，并且自身有着严格的时空节奏。这篇文章介绍了 Nature 新发布的一项成果，两个不同的团队用两种不同的方法完成了这一件事！一个是使用细胞系，另一个是优化培养方案，都成功构建了初步的人类胚胎模型——人造囊胚。
 
@@ -84,13 +84,13 @@
 
 ### 2、一个可以将论文概括为一句话的AI[^5]
 
-[![image-20210318132550742](http://static.fungenomics.com/images/2021/03/image-20210318132550742.png)](https://mp.weixin.qq.com/s/5FM0SVuIkO28v48M1b3rGA)
+[![image-20210318132550742](https://static.fungenomics.com/images/2021/03/image-20210318132550742.png)](https://mp.weixin.qq.com/s/5FM0SVuIkO28v48M1b3rGA)
 
 这是一个称为 TLDR 的免费软件，由非营利性的艾伦人工智能研究所开发的一个学术论文总结工具，号称可以将长论文总结为一句话，这个软件的文章发表在 Nature 上。不过，它目前只适用于 Semantic Scholar上的论文，其它的还在调试。
 
 ### 3、What the f*ck Python[^6]
 
-![image-20210312194913750](http://static.fungenomics.com/images/2021/03/image-20210312194913750.png)
+![image-20210312194913750](https://static.fungenomics.com/images/2021/03/image-20210312194913750.png)
 
 
 
@@ -111,5 +111,5 @@
 
 《碱基周报》每周首发于个人公众号：**helixminer（碱基矿工）**
 
-<img src="http://static.fungenomics.com/images/2021/03/helixminer-mid-red.png" alt="image-20210228112711833" style="zoom:60%;" />
+<img src="https://static.fungenomics.com/images/2021/03/helixminer-mid-red.png" alt="image-20210228112711833" style="zoom:60%;" />
 

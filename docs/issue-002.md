@@ -4,7 +4,7 @@
 
 ## 封面图
 
-![封面图源：pexels.com](http://static.fungenomics.com/images/2021/03/pexels-photo-146080.jpeg)
+![封面图源：pexels.com](https://static.fungenomics.com/images/2021/03/pexels-photo-146080.jpeg)
 
 
 
@@ -16,13 +16,13 @@
 
 
 
-![image-20210227123135139](http://static.fungenomics.com/images/2021/03/image-20210227123135139.png)
+![image-20210227123135139](https://static.fungenomics.com/images/2021/03/image-20210227123135139.png)
 
 
 
 这个是2020年医学科学部中标率的统计：
 
-![image-20210227140616658](http://static.fungenomics.com/images/2021/03/image-20210227140616658.png)
+![image-20210227140616658](https://static.fungenomics.com/images/2021/03/image-20210227140616658.png)
 
 
 
@@ -30,9 +30,9 @@
 
 另外，发现在信息科学部下面其实也有两个生物信息学的分支，这并不算意外，**因为生物信息学其实也是一门信息科学。**
 
-![image-20210227123615662](http://static.fungenomics.com/images/2021/03/image-20210227123615662.png)
+![image-20210227123615662](https://static.fungenomics.com/images/2021/03/image-20210227123615662.png)
 
-![image-20210227123538674](http://static.fungenomics.com/images/2021/03/image-20210227123538674.png)
+![image-20210227123538674](https://static.fungenomics.com/images/2021/03/image-20210227123538674.png)
 
 
 
@@ -44,7 +44,7 @@
 
 ### 1、睡觉打鼾的人，大脑中出现与阿尔兹海默症相同的损伤，或是老年痴呆前兆？[^1]
 
-![img](http://static.fungenomics.com/images/2021/03/640-20210301202016852.jpg)
+![img](https://static.fungenomics.com/images/2021/03/640-20210301202016852.jpg)
 
 首先，我们熟知的睡觉打鼾是临床上称为**阻塞性睡眠呼吸暂停综合征**（OSAS）的一个常见特征。OSAS**是由于身体的某些机能异常引起的，是一种不该被忽视的疾病。**
 
@@ -54,7 +54,7 @@
 
 看了这个研究后，我不禁陷入了沉思......
 
-![不禁陷入沉思](http://static.fungenomics.com/images/2021/03/ailSM3191WqQL8g9G-A3-aMS7flXQcWQ5yIa-H0RYS4BwgY9LhvOhKV14RWZKNqOLvbR8kiiu2i03RHeH5DP4_diym8wua9KgWOH_CvDZgXnwqWMi6AHLg.jpeg)
+![不禁陷入沉思](https://static.fungenomics.com/images/2021/03/ailSM3191WqQL8g9G-A3-aMS7flXQcWQ5yIa-H0RYS4BwgY9LhvOhKV14RWZKNqOLvbR8kiiu2i03RHeH5DP4_diym8wua9KgWOH_CvDZgXnwqWMi6AHLg.jpeg)
 
 > 强调一下：睡觉打鼾并不代表一定就患有阻塞性睡眠呼吸暂停，打鼾只是阻塞性睡眠呼吸暂停的一个最明显特征。
 
@@ -64,7 +64,7 @@
 
 
 
-![Image](http://static.fungenomics.com/images/2021/03/640-20210301203838412.jpg)
+![Image](https://static.fungenomics.com/images/2021/03/640-20210301203838412.jpg)
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-![img](http://static.fungenomics.com/images/2021/03/cba5c580174bffc93a9b8d7f51b8cfe2.gif)
+![img](https://static.fungenomics.com/images/2021/03/cba5c580174bffc93a9b8d7f51b8cfe2.gif)
 
 
 
@@ -86,7 +86,7 @@
 
 ### 3、喝咖啡不会影响睡眠，但却改变了大脑结构[^3]
 
-![image-20210304182125571](http://static.fungenomics.com/images/2021/03/image-20210304182125571.png)
+![image-20210304182125571](https://static.fungenomics.com/images/2021/03/image-20210304182125571.png)
 
 还是一项关于咖啡的研究，这是一项“随机双盲交叉试验”，它的科学性和可信度应该说是很有保障的，不过样本量有些小，只有20个志愿者。分了两个组，做了两个10天（共20天）的对比研究。期刊的影响因子也不是特别高：2020 IF 5.043。
 
@@ -96,7 +96,7 @@
 
 > **灰质**是中枢神经系统的重要组成部分，由大量的神经元胞体及其树突聚集在一起形成，灰质和人的认知能力有关；另一个重要组成部分为**白质**，它由各种不同功能的神经纤维聚集而成。
 >
-> ![image-20210304183241192](http://static.fungenomics.com/images/2021/03/image-20210304183241192.png)
+> ![image-20210304183241192](https://static.fungenomics.com/images/2021/03/image-20210304183241192.png)
 >
 > 
 
@@ -106,13 +106,13 @@
 
 嘿，**2** 和 **3** 的研究还真有趣。
 
-![要健康还是要脑子？](http://static.fungenomics.com/images/2021/03/sswqewhtrqx.jpeg)
+![要健康还是要脑子？](https://static.fungenomics.com/images/2021/03/sswqewhtrqx.jpeg)
 
 
 
 ### 4、中国人独立起源，不是来自非洲？[^4]
 
-![Image](http://static.fungenomics.com/images/2021/03/migrate-china.png)
+![Image](https://static.fungenomics.com/images/2021/03/migrate-china.png)
 
 
 
@@ -136,7 +136,7 @@
 
 这种动物就是：海鞘（如图）。
 
-![海鞘：史上最懒的生物！长大后“吃掉”自己的大脑变成植物](http://static.fungenomics.com/images/2021/03/phallusia-blue.png)
+![海鞘：史上最懒的生物！长大后“吃掉”自己的大脑变成植物](https://static.fungenomics.com/images/2021/03/phallusia-blue.png)
 
 而且它们属于尾索动物亚门，和脊椎动物拥有共同的祖先，四舍五入就是人类祖先的近亲了。
 
@@ -144,7 +144,7 @@
 
 
 
-![底栖海鞘 *Phallusia nigra* 从幼体变为成虫的过程（图片来源：CEBIMar/USP）](http://static.fungenomics.com/images/2021/03/phallusia-nigra-growth.gif)
+![底栖海鞘 *Phallusia nigra* 从幼体变为成虫的过程（图片来源：CEBIMar/USP）](https://static.fungenomics.com/images/2021/03/phallusia-nigra-growth.gif)
 
 
 
@@ -154,13 +154,13 @@
 
 
 
-![海菠萝（*Halocynthia roretzi*）刺身。（图片来源：wikipedia）](http://static.fungenomics.com/images/2021/03/image-20210304224010743.png)
+![海菠萝（*Halocynthia roretzi*）刺身。（图片来源：wikipedia）](https://static.fungenomics.com/images/2021/03/image-20210304224010743.png)
 
 
 
 ### 6、“吃掉你，我就继承你的记忆”，记忆转移实验是造假还是奇迹？[^6]
 
-![涡虫，一种原始的扁形动物，大多生活在水中.(图片来源: Christopher Laumer | Wikimedia Commons)](http://static.fungenomics.com/images/2021/03/image-20210305220700294.png)
+![涡虫，一种原始的扁形动物，大多生活在水中.(图片来源: Christopher Laumer | Wikimedia Commons)](https://static.fungenomics.com/images/2021/03/image-20210305220700294.png)
 
 
 
@@ -176,7 +176,7 @@
 
 
 
-![image-20210304010416125](http://static.fungenomics.com/images/2021/03/image-20210304010416125.png)
+![image-20210304010416125](https://static.fungenomics.com/images/2021/03/image-20210304010416125.png)
 
 
 
@@ -214,5 +214,5 @@
 
 《碱基周报》每周首发于个人公众号：**helixminer（碱基矿工）**
 
-<img src="http://static.fungenomics.com/images/2021/03/helixminer-mid-red.png" alt="image-20210228112711833" style="zoom:60%;" />
+<img src="https://static.fungenomics.com/images/2021/03/helixminer-mid-red.png" alt="image-20210228112711833" style="zoom:60%;" />
 

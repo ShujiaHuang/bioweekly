@@ -6,7 +6,7 @@
 
 ## 本周话题：肝脏，一个没有痛感神经的器官
 
-![肝脏切片标记图片](http://static.fungenomics.com/images/2021/03/sciencepressimageforkatiecopy.png)
+![肝脏切片标记图片](https://static.fungenomics.com/images/2021/03/sciencepressimageforkatiecopy.png)
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-![image-20210228004822238](http://static.fungenomics.com/images/2021/03/image-20210228004822238.png)
+![image-20210228004822238](https://static.fungenomics.com/images/2021/03/image-20210228004822238.png)
 
 
 
@@ -32,7 +32,7 @@ https://mp.weixin.qq.com/s/BMqcUOcoI3Bj67oYO9j5EQ
 
 1、[Nature｜基于人类表观基因组图谱EpiMap，广泛揭示人类疾病位点调控回路](https://mp.weixin.qq.com/s/_yuJbLRARkgcuHsJ6YtqVg)
 
-![image-20210226151045408](http://static.fungenomics.com/images/2021/03/image-20210226151045408.png)
+![image-20210226151045408](https://static.fungenomics.com/images/2021/03/image-20210226151045408.png)
 
 目前，93%与疾病相关的突变位点位于基因组的非编码区域，而这些区域如何调控基因的转录和翻译仍然未知。Nature 报道了
 
@@ -44,13 +44,13 @@ https://mp.weixin.qq.com/s/BMqcUOcoI3Bj67oYO9j5EQ
 
 这是Lancet oncology上发表的一项新成果。研究使用经过分析验证的微滴数字PCR方法对获得的ctDNA进行定量测量，并对来自两个前瞻性临床试验的患者进行分析。结果表明，较高的ctDNA浓度与较差的总生存率显著相关，并确定了最优分界点对患者进行分类。**首次对ctDNA测量结果及其与不可切除或转移性黑色素瘤靶向治疗患者生存结局的关系进行了大规模分析，对未来的临床治疗和预后评估具有重要的意义。**
 
-![治疗4周时ctDNA状态下的无进展生存期和总生存期分析（COMBI-d）](http://static.fungenomics.com/images/2021/03/image-20210227111701984.png)
+![治疗4周时ctDNA状态下的无进展生存期和总生存期分析（COMBI-d）](https://static.fungenomics.com/images/2021/03/image-20210227111701984.png)
 
 
 
 3、[科学家开发便携式无线、可植入式血氧仪，可实时准确监测静脉、心脏氧合水平](https://mp.weixin.qq.com/s/ZM8AwF_sobCFrmSqTO7Z6Q)
 
-![image-20210228002039501](http://static.fungenomics.com/images/2021/03/image-20210228002039501.png)
+![image-20210228002039501](https://static.fungenomics.com/images/2021/03/image-20210228002039501.png)
 
 
 
@@ -62,9 +62,9 @@ https://mp.weixin.qq.com/s/BMqcUOcoI3Bj67oYO9j5EQ
 
 4、[机器学习的线性代数简介(英文)](https://pabloinsente.github.io/intro-linear-algebra)
 
-![image-20210227113027430](http://static.fungenomics.com/images/2021/03/image-20210227113027430.png)
+![image-20210227113027430](https://static.fungenomics.com/images/2021/03/image-20210227113027430.png)
 
-![image-20210227113057774](http://static.fungenomics.com/images/2021/03/image-20210227113057774.png)
+![image-20210227113057774](https://static.fungenomics.com/images/2021/03/image-20210227113057774.png)
 
 一篇英语技术文章，展示如何通过 Python 学习线性代数，内容很长，质量很高。
 
@@ -80,15 +80,15 @@ https://mp.weixin.qq.com/s/BMqcUOcoI3Bj67oYO9j5EQ
 
 6、[qmplot: 一个画GWAS曼哈顿图和QQ图的Python库](https://github.com/ShujiaHuang/qmplot)
 
-![image-20210227114223140](http://static.fungenomics.com/images/2021/03/image-20210227114223140.png)
+![image-20210227114223140](https://static.fungenomics.com/images/2021/03/image-20210227114223140.png)
 
-![image-20210227120319839](http://static.fungenomics.com/images/2021/03/image-20210227120319839.png)
+![image-20210227120319839](https://static.fungenomics.com/images/2021/03/image-20210227120319839.png)
 
 
 
 这是我前几天写的一个绘制GWAS Manhattan和 QQ plot 的 Python包，在github发布之后，这周也成了 reddit 论坛bioinformatics话题下最热的一个帖子。
 
-![image-20210227120155816](http://static.fungenomics.com/images/2021/03/image-20210227120155816.png)
+![image-20210227120155816](https://static.fungenomics.com/images/2021/03/image-20210227120155816.png)
 
 
 
@@ -104,7 +104,7 @@ GitHub链接：https://github.com/ShujiaHuang/qmplot
 
 每周首发于个人公众号：**helixminer（碱基矿工）**
 
-<img src="http://static.fungenomics.com/images/2021/03/helixminer-mid-red.png" alt="image-20210228112711833" style="zoom:60%;" />
+<img src="https://static.fungenomics.com/images/2021/03/helixminer-mid-red.png" alt="image-20210228112711833" style="zoom:60%;" />
 
 
 
