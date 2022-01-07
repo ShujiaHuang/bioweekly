@@ -7,7 +7,7 @@
 
 ## 如何搜索本周报的内容
 
-1、使用[Sourcegraph.com](https://sourcegraph.com/github.com/ShujiaHuang/bioweekly/) 进行搜索。（推荐方法）
+1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ShujiaHuang/bioweekly/) 进行搜索。（推荐方法）
 
 2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
 
