@@ -1,27 +1,28 @@
 # 碱基周报（第 006 期）：龙人，一个新发现的人类分支？
 
-记录每周值得分享的生命科学和生物信息学进展内容，周日发布。
+记录值得分享的生命科学和生物信息学进展内容，周日发布。
 
 ## 封面图
 ![img](https://static.fungenomics.com/images/2021/07/906b72ee1b21488cb04fb69783d0d2dc.jpeg)
 
-## 本周话题：龙人，一个新发现的人类分支
+## 本周话题： 不是 β 淀粉样蛋白导致阿尔兹海默症
 
+![image-20220609081811447](https://static.fungenomics.com/images/2022/06/image-20220609081811447.png)
 
+一直以来，学界都认为脑内神经细胞外 β 淀粉样蛋白沉积（又称老年斑）是阿尔兹海默症的主要病变，所以，β 淀粉样蛋白学说也被认为是阿尔兹海默症主流的发病机制。但基于此来预防和治疗阿尔兹海默症的药物和方案所产生的效果却不尽人意。
 
-自 1972 年阿波罗17号登月任务完成后至今49年过去了。在这期间，人类就再也没有站在足够远的地方回望独自悬在漆黑太空中的蓝色地球。后来的所有探索都是在近地轨道上完成的，近地轨道距地球表面只有350km，而地球的直径达 12,700km，这个距离太近了，仅能看到地表的形变。而在月球上回望，我们能看见一颗孤零零的蓝色星球包裹在层层白云之中，透过云层还可以注意到陆地上的些许绿色。我们都知道，绿是生命的颜色，也是地球陆地的背景色。我们的星球在太阳系中独一无二，因为生命只存在于地球上（至少目前是这样），这似乎仅是一个极小概率事件，但意义却非比寻常。
+今年 6 月 2 日《自然神经科学》刊登了一项来自美国纽约大学格罗斯曼医学院联合内森克莱恩研究所的最新研究成果，改变了我们过去对阿尔兹海默症** “先有细胞外淀粉样斑块形成，后有神经细胞死亡”** 的认识。他们认为实际上是：**“先有神经细胞死亡，后有细胞外淀粉样斑块出现”**。这样一来，即便清除了细胞外的淀粉样斑块，被害细胞早已死亡，已经于事无补。
 
-就好像宇宙的骰子一经掷出，我们的星球便得到了三个6。
+研究人员认为阿尔兹海默症的发生，始于神经细胞自噬溶酶体功能障碍，更准确地来说，是“酸化”障碍。自噬溶酶体由自噬泡与溶酶体融合形成，溶酶体就像**细胞垃圾处理厂**，自噬泡相当于 **“细胞垃圾运输车”**，它将细胞内损伤的蛋白质、核酸、细胞器等运输到溶酶体进行分解消化。溶酶体内的水解酶需要在酸性环境下才能发挥消化分解作用，而这种酸性环境主要靠质子泵 vATPase 将细胞质中的 H+ 离子泵入溶酶体内得以实现，一旦溶酶体酸化障碍，垃圾分解的流水线就会停滞，造成大量垃圾中间产物形成并蓄积在溶酶体内，这其中也包括 β 淀粉样蛋白及其前体蛋白。当溶酶体承受不住破裂后，溶酶体内的水解酶就会释放进入细胞质中，分解消化细胞，细胞膜瓦解，胞内垃圾泄了一地，最终形成我们看到的“细胞外”淀粉样斑块。也就是说，**细胞死亡要先于细胞外淀粉样斑块的形成，甚至可以说这些淀粉样斑块正是死亡的神经细胞混合着β淀粉样蛋白的遗骸**。
 
+研究人员是通过阿尔兹海默症小鼠来证明他们的这个结论的。
 
+这个研究对于踟蹰不前的阿尔兹海默症治疗无异于为临床研究 “拨开云雾见天日”，发现了阿尔兹海默症的病因不在细胞外，而在于细胞内。而减少斑块生成，避免细胞死亡，关键在于“修好垃圾处理厂”，恢复溶酶体的酸化功能。
 
-但地球也不是一直都这么美好，在 7 亿年前，距离传说中的寒武纪生物大爆发还有2亿年，地球冻住了。
+事实上，该团队今年4月发表在 Science Advances 上的研究已经证明通过改善溶酶体酸化功能，能够显著减轻阿尔兹海默症小鼠神经损伤！
 
-> http://jingxuan.guokr.com/pick/15703/
->
-> https://www.guokr.com/article/441192/
->
-> https://zhuanlan.zhihu.com/p/348681082
+> Faulty autolysosome acidification in Alzheimer’s disease mouse models induces autophagic build-up of Aβ in neurons, yielding senile plaques：https://www.nature.com/articles/s41593-022-01084-8。
+> Axonal transport of late endosomes and amphisomes is selectively modulated by local Ca2+ efflux and disrupted by PSEN1 loss of function：
 
 
 
@@ -60,7 +61,7 @@
 
 > A Scoping Review: Metabolomics Signatures Associated with Animal and Plant Protein Intake and Their Potential Relation with Cardiometabolic Risk, https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmab073/6316463
 
-3、熬夜存在危害的一个原因：免疫系统不陪你一起熬夜
+3、熬夜存在危害的一个原因：**免疫系统不陪你一起熬夜**
 
 ![image-20210806085904910](https://static.fungenomics.com/images/2021/08/image-20210806085904910.png)
 
@@ -86,23 +87,31 @@ https://www.toutiao.com/article/7106121315135947301
 
 
 
-4、
+5、
+
+> https://nejmqianyan.cn/article/yxqy-jw.NA53457
+
+
+6、日研究称小行星样本含多种氨基酸，系首次在地球外确认氨基酸存在
+
+https://3w.huanqiu.com/a/0c789f/48K7rfiQXUc
+
+
+
+7、NEJM：运动过度损害线粒体的功能
 
 > https://nejmqianyan.cn/article/yxqy-jw.NA53457
 
 
 
 
+亚马逊河网
 
-1、NEJM：运动过度损害线粒体的功能
-
-> https://nejmqianyan.cn/article/yxqy-jw.NA53457
-
-
+![image-20220607212730807](https://static.fungenomics.com/images/2022/06/image-20220607212730807.png)
 
 
 ## 订阅
 
-《碱基周报》每周首发于个人公众号：**helixminer（碱基矿工）**
+《碱基周报》首发于个人公众号：**helixminer（碱基矿工）**
 
 <img src="https://static.fungenomics.com/images/2021/03/helixminer-mid-red.png" alt="image-20210228112711833" style="zoom:60%;" />
