@@ -2,19 +2,12 @@
 
 记录每周值得分享的生命科学和生物信息学进展内容，周日发布。
 
-公众号摘要：寿命极限是生物体的一种内在的生物特性，它独立于压力因素。
-
-
 
 ## 封面图
 
-
-
 ![Brown Monarch Butterfly Perch on Pink Clusted Flwoers](https://static.fungenomics.com/images/2021/06/pexels-photo-548412.jpeg)
 
-
-
-封面图源：pexels.com
+<center>封面图源：pexels.com</center>
 
 
 
